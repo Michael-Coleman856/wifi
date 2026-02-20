@@ -1,13 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylergehm/wifi/main/wifi.png" alt="GitHub banner" style="max-width:100%;height:auto;" />
+  <<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/bccb0e2c-ef06-48e7-92a2-0642d00268f3" />
 </p>
 
 # 📶 Wi-Fi: Common Issues & Fixes
-
-> **🗣️ Wi-Fi Mantra**  
-> _"If it’s not the signal, it’s the password. If it’s not the password — **restart it**."_
-
----
 
 ## 📋 Common Issues at a Glance
 
